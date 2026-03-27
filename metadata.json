@@ -1,0 +1,5 @@
+{
+  "name": "Vidyapeeth",
+  "description": "A modern, professional coaching institute website for Class 10, 12, Science, Commerce, and Arts.",
+  "requestFramePermissions": ["geolocation"]
+}
